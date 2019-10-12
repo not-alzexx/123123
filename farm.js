@@ -11,7 +11,7 @@ var config = {
     },
     identity: {
         username: "alzexx",
-        password: "oauth:heg57iwxhltycahf3hfknewj2zzo2b"
+        password: "oauth:xvdlt44mtfocwsz16ghq1nexr4tox6"
     },
     channels: ["alzexx", "admiralbahroo", "kalei", "yuuie", "bjw", "xlice", "k3lly01", "mendokusaii", "zero", "woops", "dafran", "neko", "yourprincess", "niku_Senpai", "beastrollmc", "cecevr", "thenolalex", "dilted", "j4key", "ashuneragames", "atamanman", "greaterpantsu", "waifudeliveryservice", "cerlam", "revaq", "trunoom", "kromia", "scifri", "surefour", "cxlibri", "elite", "jaeroar", "kuro_ken", "lost_pause_", "namikochan", "cantaperme92", "BaburuBaburu", "anniefuchsia", "averse", "scrubing", "zero", "averse", "berph_San", "bjw", "capitanetoinon", "ca_ramel", "uandmeems", "vernly", "celerity", "cellbit", "chewiemelodies", "chu8", "cosmoszr", "cutedog_", "domadness", "eff2ct", "elegy", "bittie", "eternalenvvy", "failverde", "faux", "cosmoszr", "zero", "froggen", "gosu", "gunnemanlac", "hashinshin", "itshafu", "jendenise", "kairuchan", "kira", "kraigiee", "kyoslilmonster", "myn_alkapone", "kayuun", "dearcindyphan", "miaayana", "navioot", "nightbIue3", "nyannersz", "onlyafro", "qttsix", "zero", "wadu", "wolsk", "xigneon", "yasserm55", "zenlx", "zrush", "chocpocalypse", "Nattsume", "shiphtur", "myun", "Iolnani", "theanlmeman", "renny", "enviosity", "boxbox", "wolsk", "elure", "namiko", "thorw", "trihex", "sleepy", "sweezy", "celerity", "kittychipz"]
 }
