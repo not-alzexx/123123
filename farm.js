@@ -1,5 +1,4 @@
 var tmi = require("tmi.js")
-var channel = "alzexx"
 
 var config = {
     options: {
